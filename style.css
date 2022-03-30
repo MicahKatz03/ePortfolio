@@ -183,11 +183,11 @@ a:hover{
 }
 
 #git-link{
-
+    margin: 8px 0;
 }
 
 proj-list{
-    
+
 }
 
 @media (max-width: 768px){
